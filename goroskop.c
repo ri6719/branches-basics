@@ -1,7 +1,7 @@
 #include  <stdio.h>
 int main () {
 	int d,m;
-	printf("ВВЕДИТЕ ДАТУ И МЕСЯЦ");
+	printf("Введите дату и месяц");
 	scanf("%d %d",&d,&m);
 	switch(m){
 	
