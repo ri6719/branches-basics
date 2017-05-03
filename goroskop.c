@@ -16,92 +16,92 @@ int main () {
 		break;
     case 2:
         if (d>=20) {
-            printf("Fish");
+            printf("(Fish)");
         }
         else {
-            printf("Aquarius");
+            printf("(Aquarius)");
         }
         break;
     case 3:
         if (d>=21) {
-            printf("Aries");
+            printf("(Aries)");
         }
         else {
-            printf("Fish");
+            printf("(Fish)");
         }
         break;
     case 4:
         if (d>=20) {
-            printf("Taurus");
+            printf("(Taurus)");
         }
         else {
-            printf("Aries");
+            printf("(Aries)");
         }
 		break;
     case 5:
         if (d>=21) {
-            printf("Twins");
+            printf("(Twins)");
         }
         else {
-            printf("Taurus");
+            printf("(Taurus)");
         }
   		break;
     case 6:
         if (d>=21) {
-            printf("Cancer!");
+            printf("(Cancer!)");
         }
         else {
-            printf("Twins");
+            printf("(Twins)");
         }
         break;
     case 7:
         if (d>=23) {
-            printf("Leo");
+            printf("(Leo)");
         }
         else {
-            printf("Cancer!");
+            printf("(Cancer!)");
         }
         break;
     case 8:
         if (d>=23) {
-            printf("Virgo");
+            printf("(Virgo)");
         }
         else {
-            printf("Leo");
+            printf("(Leo)");
         }
         break;
     case 9:
         if (d>=23) {
-            printf("Libra");
+            printf("(Libra)");
         }
         else {
-            printf("Virgo");
+            printf("(Virgo)");
         }
         break;
 
     case 10:
         if (d>=24) {
-            printf("Scorpio");
+            printf("(Scorpio)");
         }
         else {
-            printf("Libra");
+            printf("(Libra)");
         }
         break;
         
      case 11:
         if (d>=23) {
-            printf("Sagittarius");
+            printf("(Sagittarius)");
         }
         else {
-            printf("Scorpio");
+            printf("(Scorpio)");
         }
         break;
       case 12:
         if (d>=21) {
-            printf("");
+            printf("(Capricorn)");
         }
         else {
-            printf("Sagittarius");
+            printf("(Sagittarius)");
         }
         break;
         
